@@ -1,1 +1,9 @@
-I just want to see whether githubs limits are based on repo size or working set size
+So what is a big repository?
+
+A big file
+Or a bit .git directory?
+
+This is a 200mb file
+full of "a\n"s
+compressed by git.
+
